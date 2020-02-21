@@ -94,6 +94,10 @@ p{
     color: white;
   }
 
+#aboutus span{
+    font-weight: bolder;
+}
+
   /* Services */
 
   #services h3{
@@ -179,9 +183,23 @@ p{
         margin-left: 40%;
     }
 
+    #p1{
+        display: none;
+        color:black;
+        text-align: center;
+    }
+    #p2{
+    
+        display: none;
+        color:black;
+        text-align: center;
+    }
+    #p3{
+        text-align: center;
+        display: none;
+        color: black;
+    }
 /* Portfolio */
-
-
 
 #overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     display:none;
@@ -226,7 +244,8 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
-    background-image: url("../images/assets/backgrounds/c_image.jpg");
+    background-image: url("./images/c_image.jpg");
+    width:;
 }
 .contacts h1{
     text-align: center;
@@ -253,11 +272,22 @@ input,
 textarea {
 	color: white;
 }
-#Name,
-#Email,
+
+#Name{
+    color: white;
+    background-color: #ffffff;
+}
+
+#Email {
+    font-style: white;
+    background-color: #ffffff;
+}
 #Message {
     color: white;
     background-color: #ffffff;
+}
+placeholder{
+color: white;
 }
 /* Glyphicons */
 
@@ -275,25 +305,6 @@ textarea {
 
 
 
-#aboutus span{
-    font-weight: bolder;
-}
-#p1{
-    display: none;
-    color:black;
-    text-align: center;
-}
-#p2{
-
-    display: none;
-    color: black;
-    text-align: center;
-}
-#p3{
-    text-align: center;
-    display: none;
-    color: black;
-}
 #footer{
     text-align: center;
     padding: 5vh;
