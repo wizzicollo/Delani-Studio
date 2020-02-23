@@ -110,7 +110,7 @@ p{
     
     background-repeat: no-repeat;
     background-size: cover;
-    height: 60vh;
+    height: 5vh;
     background-image: url("../images/assets/backgrounds/s_image.jpg");
 }
 
@@ -245,7 +245,7 @@ p{
     background-size: cover;
     height: 60vh;
     background-image: url("./images/c_image.jpg");
-    width:;
+    color: white;
 }
 .contacts h1{
     text-align: center;
@@ -253,6 +253,13 @@ p{
     color:white;
     margin-top: 5%;
 
+}
+.form-control {
+  color: #ffffff;
+  font-size: 16px;
+  text-decoration-color: white;
+  text-decoration: white;
+  font-style: italic;
 }
 #text {
 	width: 160px;
@@ -266,7 +273,8 @@ p{
 	left: 3em;
 	display: none;
 	color: white;
-	font-size: 30px;
+  font-size: 30px;
+  
 }
 input,
 textarea {
@@ -286,7 +294,7 @@ textarea {
     color: white;
     background-color: #ffffff;
 }
-placeholder{
+#placeholder{
 color: white;
 }
 /* Glyphicons */
