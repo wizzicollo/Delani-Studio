@@ -140,8 +140,9 @@ p{
       left: 0;
       bottom: 0;
       right: 0;
-      /* background:url(./images/keyboard.jpg) no-repeat center center/cover; */
+      background:url(./images/keyboard.jpg) no-repeat center center/cover;
       color: #fff;
+      
     }
     .showcase-content2 h1 {
       font-size: 4rem;
