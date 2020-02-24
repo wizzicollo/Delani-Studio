@@ -264,3 +264,119 @@ textarea {
         </div> 
     </div>
 </div>
+
+
+
+
+
+
+
+
+
+<!-- 
+    <div class="contact">
+        <div class="text-contact">
+            <h3>CONTACT US</h3>
+            <form onsubmit="return false" method="post" name="myForm" action="../script.js" class="contact-us">
+                <input type="text" placeholder="Enter your name" class="contact-name" id="cName">
+                <input type="email" placeholder="Enter your email" class="contact-email" id="cEmail">
+                <textarea maxlength="500" id="textarea" cols="100" rows="10" placeholder="Talk to us here"></textarea>
+                <div id="textarea-feed"></div>
+                <div class="contact-btn">
+                    <button onclick="myforms()" id="button">Submit</button>
+                </div>
+            </form>
+        </div>
+    </div> -->
+<!-- 
+<div class="contacts">
+    <div class="container-fluid">
+        <div class="contacts">
+            <h1>CONTACT US</h1>
+            <br>
+            <br>
+            <br>
+
+            <div class="container">
+            <form>
+                <div class="row">
+                    <div class="col-md-6">
+                        <input type="text" class="form-control" id="Name" placeholder="Name..."
+                            style="background-color: transparent" style="text-emphasis-color: white">
+                    </div>
+                    <div class="col-md-6">
+                        <input type="email" class="form-control" id="Email" placeholder="Email..."
+                            style="background-color: transparent" style="text-emphasis-color:white"> 
+                    </div>
+
+                </div>
+                <br>
+                <br>
+
+                <textarea class="form-control" rows="9" id="Message" placeholder="your message here..."
+                    style="background-color: transparent" style="text-emphasis-color:white" id="Message"></textarea>
+                <br><br>
+                <button type="button" id="submit" class="btn btn-primary">submit</button>
+            </form>
+        </div>
+    </div>
+</div>
+</div>  -->
+
+<!-- <div class="text-center" id="portfolio">
+    <div class="row">
+        <div id="portfh" class=" col-12">
+            <h1 >PORTFOLIO</h1>
+
+        </div>
+    </div>
+    
+    <div class=" portf row d-flex justify-content-around">
+      <div class="col-sm-2 four" >
+        <img src="images/work4.jpg" alt="">
+        <p id="overlay4" class="text">BLACK  STUDIO</p>
+      </div>
+
+      <div class="col-sm-2 three">
+          <img src="images/work3.jpg" alt="">
+          <p id="overlay3" class="text">ONTARIO SECURITY</p>
+        </div>
+
+        <div class="col-sm-2 two">
+            <img src="images/work2.jpg" alt="">
+            <p id="overlay2" class="text">PYRAMIDS</p>
+          </div>
+
+          <div class="col-sm-2 one">
+              <img src="images/work1.jpg" alt="">
+              <p id="overlay1" class="text">JIM CARREY</p>
+            </div>
+
+    </div>
+
+
+
+    <div class=" portf row d-flex justify-content-around">
+        <div class="col-sm-2 five">
+          <img src="images/work5.jpg" alt="">
+          <p id="overlay5" class="text">NICE DAY</p>
+        </div>
+
+        <div class="col-sm-2 six">
+            <img src="images/work6.jpg" alt="">
+            <p id="overlay6" class="text">CALCULATOR</p>
+          </div>
+
+          <div class="col-sm-2 seven">
+              <img src="images/work7.jpg" alt="">
+              <p id="overlay7" class="text">BURNED LOGO MOCK-UP</p>
+            </div>
+
+            <div class="col-sm-2 eight">
+                <img src="images/work8.jpg" alt="">
+                <p id="overlay8" class="text">BAILEY WONGER</p>
+              </div>
+
+      </div>
+
+  </div> -->
