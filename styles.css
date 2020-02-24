@@ -99,24 +99,17 @@ p{
 }
 
   /* Services */
+  .services{
+    background-image: url(./images/keyboard.jpg);
+    height: 300px;
+    color: #fff;
+}
+#service{
+    position: relative;
+    text-align: center;
+    top: 48px;
+}
 
-  .portfolio:hover {
-    opacity: 0.2;
-    transform: scale(1.1);
-    transition: opacity 0.5s ease-out;
-  }
-
-  .tt {
-    display: none;
-    position: absolute;
-    top: 50%;
-    color: black;
-    font-size: 1.5em;
-    border: 4px solid white;
-    padding:15px 15px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
 
   
 
@@ -155,42 +148,24 @@ p{
     }
 /* Portfolio */
 
-#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
-    display:none;
-    background-color: white;
-    opacity:0.8;
-    
-    font-size: 30px;
-    height: 120%;
-    width: 130%;
-    padding-top: 40%;
-    padding-right: 15%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-30%, -40%);
-    text-align: center;
-  }
-  
-  #desh,#devh,#prodh{
-      display:none;
-      font-size: 2vh;
-    }
-#portfolio h1{
-    font-size: 25px;
+
+.portfolio:hover {
+  opacity: 0.2;
+  transform: scale(1.1);
+  transition: opacity 0.5s ease-out;
 }
 
-#toggle3{
-    margin-top: -5%;
+.tt {
+  display: none;
+  position: absolute;
+  top: 50%;
+  color: black;
+  font-size: 1.5em;
+  border: 4px solid white;
+  padding:15px 15px;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
-.portf{
-    margin-bottom: 5vh;
-}
-
-#portfh{
-    margin-bottom: 3    Q1vh;
-}
-
 
 /* Contact us */
 
@@ -239,27 +214,17 @@ p{
     color: white;
     background-color: #ffffff;
 }
-/* input,
+input,
 textarea {
 	color: white;
 }
 
-#Name{
-    color: white;
-    background-color: #ffffff;
-}
 
-#Email {
-    font-style: white;
-    background-color: #ffffff;
-}
-#Message {
-    color: white;
-    background-color: #ffffff;
-}
 #placeholder{
 color: white;
-} */
+} 
+
+
 /* Glyphicons */
 
 
