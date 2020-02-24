@@ -203,7 +203,7 @@ p{
     }
 /* Portfolio */
 
-#overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+/* #overlay1,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
     display:none;
     background-color: white;
     opacity:0.8;
@@ -237,7 +237,7 @@ p{
 
 #portfh{
     margin-bottom: 3    Q1vh;
-}
+} */
 /* Contact us */
 
 
@@ -261,7 +261,7 @@ p{
   font-size: 16px;
   text-decoration-color: white;
   text-decoration: white;
-  font-style: italic;
+  
 }
 #text {
 	width: 160px;
@@ -278,7 +278,14 @@ p{
   font-size: 30px;
   
 }
-input,
+
+#Name,
+#Email,
+#Message {
+    color: white;
+    background-color: #ffffff;
+}
+/* input,
 textarea {
 	color: white;
 }
@@ -298,7 +305,7 @@ textarea {
 }
 #placeholder{
 color: white;
-}
+} */
 /* Glyphicons */
 
 

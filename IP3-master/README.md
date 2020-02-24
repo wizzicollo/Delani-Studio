@@ -8,8 +8,7 @@
 
 ## description of project
 
-     This project is aimed at giving a user his or her Akan name 
-     when he or she enters details and make request in the form provided in the webpage.
+     This project is aimed at creating a platform that enables users invent and establish great designs.
 
 ## project setup instructions
 
@@ -27,7 +26,7 @@
    - Visual studio code
 
 ## link to live site on GitHub Pages
-      https://wizzicollo.github.io/akan-names/
+      https://wizzicollo.github.io/Delani-Studio/
 
 ## Contact information
    - mobile: 0741 280 908
