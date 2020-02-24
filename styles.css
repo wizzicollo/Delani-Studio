@@ -169,7 +169,55 @@ p{
 
 /* Contact us */
 
+.contact {
+  padding-top: 35px;
+  padding-bottom: 40px;
+  background-image: url(/images/c_image.jpg);
+  background-repeat: no-repeat;
+}
+.text-contact {
+  color: white;
+  font-size: 20px;
+  font-weight:bold;
+  font-family:Arial, Helvetica, sans-serif;
+  word-spacing: 2px;
+}
+.myForm-input {
+  font-size: 12px;
+  padding: 5px 10px 10px 5px;
+  display: block;
+  width: 100%;
+  background: transparent;
+  color: white;
+}
+.contact-us {
+  background: transparent;
+  padding-top: 20px;
+}
+.contact-us input,
+.contact-us textarea,
+.contact-btn button {
+  margin-bottom: 10px;
+  padding: 7px 5px;
+  border: 2px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+.contact-email {
+  margin-left: 200px;
+}
+div.contact-btn button {
+  padding: 7px 10px;
+  width: 150px;
+  font-weight: bold;
+  transition: border 0.2s;
+  font-size: 1.2rem;
+}
+.contact-btn button:hover {
+  border: 2px solid #fff;
+}
 
+/* 
 .contacts{
     background-position: center;
     background-repeat: no-repeat;
@@ -219,10 +267,9 @@ textarea {
 	color: white;
 }
 
-
 #placeholder{
 color: white;
-} 
+}  */
 
 
 /* Glyphicons */
