@@ -169,7 +169,7 @@ p{
 
 /* Contact us */
 
-.contact {
+/* .contact {
   padding-top: 35px;
   padding-bottom: 40px;
   background-image: url(/images/c_image.jpg);
@@ -215,9 +215,9 @@ div.contact-btn button {
 }
 .contact-btn button:hover {
   border: 2px solid #fff;
-}
+} */
 
-/* 
+
 .contacts{
     background-position: center;
     background-repeat: no-repeat;
@@ -269,7 +269,7 @@ textarea {
 
 #placeholder{
 color: white;
-}  */
+}  
 
 
 /* Glyphicons */
